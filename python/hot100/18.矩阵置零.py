@@ -2,7 +2,6 @@ class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
         m, n = len(matrix), len(matrix[0])
         flag_col0 = False
-        
         for i in range(m):
             if matrix[i][0] == 0:
                 flag_col0 = True
