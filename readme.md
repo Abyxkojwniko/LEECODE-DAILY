@@ -1,3 +1,2 @@
-用于记录每日leecode刷题，每日3-5题
-首先hot100
-然后灵神题单
+leecode刷题每日记录 c++ python
+hot100完成中
