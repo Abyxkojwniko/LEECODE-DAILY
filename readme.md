@@ -1,2 +1,2 @@
 leecode刷题每日记录 c++ python
-hot100完成中
+hot100完成中ing
